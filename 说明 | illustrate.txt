@@ -1,0 +1,3 @@
+这是一个用Java语言编写的贪吃蛇小游戏，导入到idea运行就可以了。
+
+This is a greedy snake game written in Java language, which can be imported into IDEA to run.
